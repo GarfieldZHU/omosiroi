@@ -1,5 +1,9 @@
+#coding=utf-8
+
 from PIL import Image
 import argparse
+
+# module "Pillow" is required to have this module
 
 parser = argparse.ArgumentParser()
 
