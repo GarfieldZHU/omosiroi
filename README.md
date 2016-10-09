@@ -1,6 +1,6 @@
 # omosiroi
 
-Hey,
+Hey！
 
 Here are several easy codes and module to learn or train.
 
