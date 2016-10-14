@@ -1,5 +1,7 @@
 #coding=utf-8
 
+
+#with the module, you can input path of an image, and transfer to ascii char to display the image
 from PIL import Image
 import argparse
 
