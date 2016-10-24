@@ -8,4 +8,4 @@ Maybe they are useless or boring, but it interests me.
 
 Who knows?
 
-1. image to ascii transformer
+* image to ascii transformer
